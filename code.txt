@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 first faeturre
 second feat
 
@@ -9,3 +10,27 @@ fourth feat
 fifth feature
 
 sixth feature
+=======
+
+first master
+secondms
+
+third ms
+first faeturre
+second feat
+
+
+thirdn feat
+
+fourth feat
+
+
+fourth feat
+
+fifth feature
+
+
+fifth feature
+
+sixth feature
+
