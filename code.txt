@@ -38,3 +38,5 @@ sixth feature
 seventh feature
 
 eighth feature
+
+in master
